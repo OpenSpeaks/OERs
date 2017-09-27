@@ -9,4 +9,5 @@ This project was part of [Mozilla Open Leaders round 4](https://mozilla.github.i
 *October*
 
 * Creation of a *dos and don'ts* for the interviewer
-* Video tutorials for *citizen archivists*
+* Video tutorials for *[citizen archivists](https://openspeaks.com/faq/)*
+* Inclusion of Persona and Pathways to OER (*[see a detailed slide on this](https://docs.google.com/presentation/d/1KMAMdoaMTzAkpfqF-EU77vMHCwgKkodBrgsN8z3M3yw/edit?usp=sharing)*)
