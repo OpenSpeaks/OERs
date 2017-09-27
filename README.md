@@ -16,3 +16,6 @@ OpenSpeaks lays out a simpler [workflow](https://openspeaks.com/toolkits/av/#Wor
  ### TASKS
  * If you are contributor translator, then you can help translate the main OER (Copy the code from English and create "Toolkit (fr)" where "fr" is the two letter language code for French)
  * You can translate the subtitle for the video tutorials here
+
+### TASKS FOR SUBHASHISH
+* Provide context for people that might not know some of the technical jargons in the form of a glossary
