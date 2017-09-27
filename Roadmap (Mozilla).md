@@ -9,4 +9,4 @@ This project was part of [Mozilla Open Leaders round 4](https://mozilla.github.i
 *October*
 
 * Creation of a *dos and don'ts* for the interviewer
-* Video tutorials
+* Video tutorials for *citizen archivists*
