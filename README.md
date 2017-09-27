@@ -12,3 +12,7 @@ OpenSpeaks lays out a simpler [workflow](https://openspeaks.com/toolkits/av/#Wor
  b. software required for recording<br>
  c. overall recording, editing and publishing process<br>
  d. [metadata collection and curation](https://openspeaks.com/toolkits/av/#Metadata)<br>
+ 
+ ### TASKS
+ * If you are contributor translator, then you can help translate the main OER (Copy the code from English and create "Toolkit (fr)" where "fr" is the two letter language code for French)
+ * You can translate the subtitle for the video tutorials here
