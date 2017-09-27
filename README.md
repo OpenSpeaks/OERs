@@ -4,11 +4,7 @@ Open Educational Resources (OERs) are one of the major components of OpenSpeaks 
 ![Workflow of OpenSpeaks](https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/OpenSpeaks_workflow.svg/1000px-OpenSpeaks_workflow.svg.png)
 
 OpenSpeaks lays out a simpler [workflow](https://openspeaks.com/toolkits/av/#Workflow) that one needs to go through to fully record various aspects in their language. The workflow is partly human and partly technical. The human process focuses on building a human connection between the interviewer and the interviewee that helps better capture the nuances of a language in the most natural form. The technical process focuses on three major aspects:
-
- a. hardware components and settings to capture audio/video
- 
- b. software required for recording
- 
- c. overall recording, editing and publishing process
- 
- d. [metadata collection and curation](https://openspeaks.com/toolkits/av/#Metadata)
+a. hardware components and settings to capture audio/video
+b. software required for recording
+c. overall recording, editing and publishing process
+d. [metadata collection and curation](https://openspeaks.com/toolkits/av/#Metadata)
