@@ -2,4 +2,5 @@ This project was part of [Mozilla Open Leaders round 4](https://mozilla.github.i
 
 *September*
 
+* [Building README for OER](https://github.com/OpenSpeaks/OERs/blob/master/README.md)
 * Creation of [Open Canvas](https://docs.google.com/presentation/d/1-PAH1wYTZfTvZT_71VhkZ2egRoP42TNnnqW82BM98To/edit#slide=id.p)
