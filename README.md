@@ -21,3 +21,7 @@ OpenSpeaks lays out a simpler [workflow](https://openspeaks.com/toolkits/av/#Wor
 
 ### TASKS FOR SUBHASHISH
 * Provide context for people that might not know some of the technical jargons in the form of a glossary
+
+### Persona: Citizen Archist
+
+Oli is a social studies masters. Oli is from a remote village in the Indian state of Jharkhand and is now studying in the University in Bhubaneswar, Odisha, India. She enjoys capturing videos of performing arts of local artisans in her new smartphoe. Thanks to Jio—she has been broadcasting the events.
